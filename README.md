@@ -1,2 +1,2 @@
 # DSTools_Assignment
-This is Data Science Tools assignment 
+This is the Data Science Tools assignment.
